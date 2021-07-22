@@ -67,7 +67,7 @@ p {
     .flex-section {
         display: flex;
     }
-    
+
 }
 
 /* Large size */
@@ -76,6 +76,7 @@ p {
     .article-block {
         width: 70vw;
     }
+
     .aside-display {
         display: block;
     }
